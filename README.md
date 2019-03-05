@@ -1,4 +1,4 @@
-# CSX_Project_Spring_2019
+# Fintech-Text Mining and Machine Learning (Spring 2019)
 
 ## Week 0
 - Set up GitHub Account and paste repository link to NTU Cool Profile
